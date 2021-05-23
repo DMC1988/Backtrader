@@ -32,7 +32,7 @@ If you want to try wmaStrategy the following line must be uncomment to allow Cer
 #cerebro.resampledata(data, timeframe=bt.TimeFrame.Weeks)  # Resampling data to week interval
 ```
 ## Example
-![alt text](BHGGAL.png)
+![alt text](BHGGAL.png "Buy and Hold strategy on GGAL Argentina's stock")
 
 # Author
 Damian Caputo - [LinkedIn](https://www.linkedin.com/in/damian-caputo/) - damian.m.caputo@gmail.com
